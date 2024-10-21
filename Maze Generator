@@ -1,0 +1,19 @@
+using System.Collections;
+using System.Collections.Generic;
+using Unity Engine;
+
+public class MazeGenerator : MonoBehavior {
+
+}
+
+public class Maze Cell {
+
+  public bool visited;
+  public int x, y;
+
+  public bool topWall;
+  public bool leftWall;
+
+  //Return 
+
+}
